@@ -1,3 +1,4 @@
+
 /* eslint-disable strict */
 
 
@@ -36,4 +37,5 @@ $('ul').on('click', '.shopping-item-delete', function(event){
  
 
 // eslint-disable-next-line no-undef
+
 $(main);
